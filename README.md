@@ -12,3 +12,8 @@ What you will need:
 Get Started:
  - Download Client folder into your Raspberry Pi
  - Download Server folder into your cloud server
+
+
+MORE INFO SOON!!
+
+THANKS
